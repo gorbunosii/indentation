@@ -1,0 +1,28 @@
+
+section {
+  padding: 25px 0;
+}
+
+span {
+  border-bottom: 2px solid;
+}
+
+p {
+  white-space: pre-line;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 36px;
+  margin-bottom: 30px;
+  white-space: pre-line;
+}
+
+img {
+  margin-bottom: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,89 @@
+@import "normalize.css";
+@import "start.css";
+@import "index.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+.page {
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  max-width: 1440px;
+  padding: 0 180px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.container_background {
+  padding: 0 150px;
+}
+
+.page__title {
+  padding-top: 35px;
+  font-weight: 900;
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.background {
+  background: #F1F1F1;
+  border-radius: 10px;
+  padding: 25px 45px;
+}
+
+.contents__title {
+  font-size: 44px;
+  margin-bottom: 20px;
+}
+
+.contents__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.content-one__text {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.content-one__image {
+  display: inline-block;
+  margin: 0 30px 30px 0;
+}
+
+.last {
+  margin-bottom: 0;
+}
+
+.content-one__image-last {
+  float: right;
+  margin-bottom: 0;
+}
+
+.content-two__image_special {
+  margin-bottom: 0;
+}
+
+.combined {
+  margin-top: -6px;
+  padding: 15px 30px;
+  border: 2px solid;
+}
+
+.content-three__image {
+  margin-bottom: 0;
+}
+
+.footer__title {
+  font-weight: 700;
+  font-size: 44px;
+  margin-bottom: 20px;
+}
+
+.footer__line {
+  margin-bottom: 10px;
+}
+
+.footer__line_last {
+  margin-bottom: 0;
+}
