@@ -82,8 +82,11 @@
 
 .footer__line {
   margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 20px;
 }
 
 .footer__line_last {
   margin-bottom: 0;
 }
+
